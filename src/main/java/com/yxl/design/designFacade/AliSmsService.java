@@ -1,4 +1,4 @@
-package com.yxl.design.DesignFacade;
+package com.yxl.design.designFacade;
 
 public interface AliSmsService {
 
