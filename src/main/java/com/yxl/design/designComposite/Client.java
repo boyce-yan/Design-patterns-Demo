@@ -1,5 +1,8 @@
 package com.yxl.design.designComposite;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @author yxl
  * @version 1.0
