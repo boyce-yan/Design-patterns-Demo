@@ -1,5 +1,7 @@
 package com.yxl.design.observer;
 
+import java.util.Observable;
+
 /**
  * @author yxl
  * @version 1.0
@@ -15,7 +17,6 @@ public class Client {
         concreteSubject.registerObserver(concrereObserver2);
         //通知用户
         concreteSubject.notifyObserver(1,1,1);
-
 
     }
 }
