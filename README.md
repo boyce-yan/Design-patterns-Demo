@@ -26,6 +26,9 @@
 ├── observer - 观察者模式
 ├── prototype - 原型模式
 ├── proxy - 代理模式
+│   ├── cglibproxy - CGLIB代理模式 
+│   ├── dynamicproxy - JDK动态代理
+│   └── staticproxy - 静态代理
 ├── singleton - 单例模式
 ├── state - 状态模式
 ├── strategy - 策略模式
